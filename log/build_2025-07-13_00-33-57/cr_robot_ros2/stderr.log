@@ -1,0 +1,19 @@
+[01m[K/home/om/dobot_ws/src/dobot_bringup_v4/src/command.cpp:[m[K In static member function ‘[01m[Kstatic void CRCommanderRos2::doTcpCmd(std::shared_ptr<TcpClient>&, const char*, int32_t&, std::vector<std::__cxx11::basic_string<char> >&)[m[K’:
+[01m[K/home/om/dobot_ws/src/dobot_bringup_v4/src/command.cpp:113:58:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresult[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  113 |                                [01;35m[Kstd::vector<std::string> &result[m[K)
+      |                                [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+[01m[K/home/om/dobot_ws/src/dobot_bringup_v4/src/command.cpp:[m[K In static member function ‘[01m[Kstatic void CRCommanderRos2::doTcpCmd_f(std::shared_ptr<TcpClient>&, const char*, int32_t&, std::string&, std::vector<std::__cxx11::basic_string<char> >&)[m[K’:
+[01m[K/home/om/dobot_ws/src/dobot_bringup_v4/src/command.cpp:163:58:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresult[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  163 |                                [01;35m[Kstd::vector<std::string> &result[m[K)
+      |                                [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~[m[K
+[01m[K/home/om/dobot_ws/src/dobot_bringup_v4/src/cr_robot_ros2.cpp:[m[K In static member function ‘[01m[Kstatic void CRRobotRos2::execute_action(std::shared_ptr<dobot_msgs_v4::srv::EnableRobot_Request_<std::allocator<void> > >, std::shared_ptr<dobot_msgs_v4::srv::EnableRobot_Response_<std::allocator<void> > >)[m[K’:
+[01m[K/home/om/dobot_ws/src/dobot_bringup_v4/src/cr_robot_ros2.cpp:501:98:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  501 | void CRRobotRos2::execute_action([01;35m[Kconst std::shared_ptr<dobot_msgs_v4::srv::EnableRobot::Request> request[m[K,
+      |                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/om/dobot_ws/src/dobot_bringup_v4/src/cr_robot_ros2.cpp:502:93:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  502 |                                  [01;35m[Kstd::shared_ptr<dobot_msgs_v4::srv::EnableRobot::Response> response[m[K)
+      |                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+[01m[K/home/om/dobot_ws/src/dobot_bringup_v4/src/cr_robot_ros2.cpp:[m[K In member function ‘[01m[Kvoid CRRobotRos2::getErrorID(std::vector<int>&)[m[K’:
+[01m[K/home/om/dobot_ws/src/dobot_bringup_v4/src/cr_robot_ros2.cpp:512:48:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kvec[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+  512 | void CRRobotRos2::getErrorID([01;35m[Kstd::vector<int> &vec[m[K)
+      |                              [01;35m[K~~~~~~~~~~~~~~~~~~^~~[m[K

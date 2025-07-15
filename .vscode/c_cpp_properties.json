@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/om/dobot_ws/install/dobot_msgs_v4/include/**",
+        "/home/om/pico_ws2/install/whycon/include/**",
+        "/home/om/pico_ws2/install/rc_msgs/include/**",
+        "/home/om/pico_ws2/install/pid_msg/include/**",
+        "/home/om/pico_ws2/install/crsf_msgs/include/**",
+        "/home/om/pico_ws/install/whycon/include/**",
+        "/home/om/pico_ws/install/waypoint_navigation/include/**",
+        "/home/om/pico_ws/install/swift_msgs/include/**",
+        "/home/om/pico_ws/install/rotors_control/include/**",
+        "/home/om/pico_ws/install/pid_msg/include/**",
+        "/home/om/pico_ws/install/mav_system_msgs/include/**",
+        "/home/om/pico_ws/install/mav_state_machine_msgs/include/**",
+        "/home/om/pico_ws/install/mav_planning_msgs/include/**",
+        "/home/om/pico_ws/install/mav_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/om/dobot_ws/src/DOBOT_6Axis_ROS2_V4/dobot_bringup_v4/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

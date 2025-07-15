@@ -1,0 +1,37 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/om/dobot_ws/install/servo_action/lib/python3.10/site-packages",
+        "/home/om/dobot_ws/install/dobot_msgs_v4/local/lib/python3.10/dist-packages",
+        "/home/om/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages",
+        "/home/om/dobot_ws/install/dobot_demo/lib/python3.10/site-packages",
+        "/home/om/pico_ws2/install/crsf_ros2/lib/python3.10/site-packages",
+        "/home/om/pico_ws2/install/rc_msgs/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws2/install/pid_msg/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws2/install/crsf_msgs/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws/install/waypoint_navigation/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws/install/swift_msgs/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws/install/pid_msg/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws/install/mav_planning_msgs/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws/install/mav_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/om/dobot_ws/install/servo_action/lib/python3.10/site-packages",
+        "/home/om/dobot_ws/install/dobot_msgs_v4/local/lib/python3.10/dist-packages",
+        "/home/om/dobot_ws/install/dobot_moveit/lib/python3.10/site-packages",
+        "/home/om/dobot_ws/install/dobot_demo/lib/python3.10/site-packages",
+        "/home/om/pico_ws2/install/crsf_ros2/lib/python3.10/site-packages",
+        "/home/om/pico_ws2/install/rc_msgs/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws2/install/pid_msg/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws2/install/crsf_msgs/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws/install/waypoint_navigation/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws/install/swift_msgs/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws/install/pid_msg/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws/install/mav_planning_msgs/local/lib/python3.10/dist-packages",
+        "/home/om/pico_ws/install/mav_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,42 @@
+[1.607s] Invoking command in '/home/om/dobot_ws/build/cr10_moveit': CMAKE_PREFIX_PATH=/home/om/dobot_ws/install/dobot_rviz:/home/om/dobot_ws/install/me6_moveit:/home/om/dobot_ws/install/cr7_moveit:/home/om/dobot_ws/install/cr5_moveit:/home/om/dobot_ws/install/cr3_moveit:/home/om/dobot_ws/install/cr16_moveit:/home/om/dobot_ws/install/cr12_moveit:/home/om/dobot_ws/install/cr10_moveit:/home/om/dobot_ws/install/cr_robot_ros2:/home/om/dobot_ws/install/dobot_msgs_v4:/home/om/dobot_ws/install/dobot_gazebo:/home/om/dobot_ws/install/cra_description:/home/om/dobot_ws/install/servo_action:/home/om/dobot_ws/install/dobot_moveit:/home/om/dobot_ws/install/dobot_demo:/opt/ros/humble /usr/bin/cmake --build /home/om/dobot_ws/build/cr10_moveit -- -j8 -l8
+[2.103s] Invoked command in '/home/om/dobot_ws/build/cr10_moveit' returned '0': CMAKE_PREFIX_PATH=/home/om/dobot_ws/install/dobot_rviz:/home/om/dobot_ws/install/me6_moveit:/home/om/dobot_ws/install/cr7_moveit:/home/om/dobot_ws/install/cr5_moveit:/home/om/dobot_ws/install/cr3_moveit:/home/om/dobot_ws/install/cr16_moveit:/home/om/dobot_ws/install/cr12_moveit:/home/om/dobot_ws/install/cr10_moveit:/home/om/dobot_ws/install/cr_robot_ros2:/home/om/dobot_ws/install/dobot_msgs_v4:/home/om/dobot_ws/install/dobot_gazebo:/home/om/dobot_ws/install/cra_description:/home/om/dobot_ws/install/servo_action:/home/om/dobot_ws/install/dobot_moveit:/home/om/dobot_ws/install/dobot_demo:/opt/ros/humble /usr/bin/cmake --build /home/om/dobot_ws/build/cr10_moveit -- -j8 -l8
+[2.104s] Invoking command in '/home/om/dobot_ws/build/cr10_moveit': CMAKE_PREFIX_PATH=/home/om/dobot_ws/install/dobot_rviz:/home/om/dobot_ws/install/me6_moveit:/home/om/dobot_ws/install/cr7_moveit:/home/om/dobot_ws/install/cr5_moveit:/home/om/dobot_ws/install/cr3_moveit:/home/om/dobot_ws/install/cr16_moveit:/home/om/dobot_ws/install/cr12_moveit:/home/om/dobot_ws/install/cr10_moveit:/home/om/dobot_ws/install/cr_robot_ros2:/home/om/dobot_ws/install/dobot_msgs_v4:/home/om/dobot_ws/install/dobot_gazebo:/home/om/dobot_ws/install/cra_description:/home/om/dobot_ws/install/servo_action:/home/om/dobot_ws/install/dobot_moveit:/home/om/dobot_ws/install/dobot_demo:/opt/ros/humble /usr/bin/cmake --install /home/om/dobot_ws/build/cr10_moveit
+[2.109s] -- Install configuration: ""
+[2.109s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/ament_index/resource_index/package_run_dependencies/cr10_moveit
+[2.109s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/ament_index/resource_index/parent_prefix_path/cr10_moveit
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/environment/ament_prefix_path.sh
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/environment/ament_prefix_path.dsv
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/environment/path.sh
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/environment/path.dsv
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/local_setup.bash
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/local_setup.sh
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/local_setup.zsh
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/local_setup.dsv
+[2.112s] -- Installing: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/package.dsv
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/ament_index/resource_index/packages/cr10_moveit
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/cmake/cr10_moveitConfig.cmake
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/cmake/cr10_moveitConfig-version.cmake
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/package.xml
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/launch
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/launch/demo.launch.py
+[2.112s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/launch/spawn_controllers.launch.py
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/launch/moveit_gazebo.launch.py
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/launch/warehouse_db.launch.py
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/launch/rsp.launch.py
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/launch/static_virtual_joint_tfs.launch.py
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/launch/move_group.launch.py
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/launch/setup_assistant.launch.py
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/launch/moveit_rviz.launch.py
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/config
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/config/cr10_robot.srdf
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/config/moveit_controllers.yaml
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/config/joint_limits.yaml
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/config/pilz_cartesian_limits.yaml
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/config/initial_positions.yaml
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/config/moveit.rviz
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/config/cr10_robot.ros2_control.xacro
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/config/cr10_robot.urdf.xacro
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/config/ros2_controllers.yaml
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/config/kinematics.yaml
+[2.113s] -- Up-to-date: /home/om/dobot_ws/install/cr10_moveit/share/cr10_moveit/.setup_assistant
+[2.125s] Invoked command in '/home/om/dobot_ws/build/cr10_moveit' returned '0': CMAKE_PREFIX_PATH=/home/om/dobot_ws/install/dobot_rviz:/home/om/dobot_ws/install/me6_moveit:/home/om/dobot_ws/install/cr7_moveit:/home/om/dobot_ws/install/cr5_moveit:/home/om/dobot_ws/install/cr3_moveit:/home/om/dobot_ws/install/cr16_moveit:/home/om/dobot_ws/install/cr12_moveit:/home/om/dobot_ws/install/cr10_moveit:/home/om/dobot_ws/install/cr_robot_ros2:/home/om/dobot_ws/install/dobot_msgs_v4:/home/om/dobot_ws/install/dobot_gazebo:/home/om/dobot_ws/install/cra_description:/home/om/dobot_ws/install/servo_action:/home/om/dobot_ws/install/dobot_moveit:/home/om/dobot_ws/install/dobot_demo:/opt/ros/humble /usr/bin/cmake --install /home/om/dobot_ws/build/cr10_moveit
