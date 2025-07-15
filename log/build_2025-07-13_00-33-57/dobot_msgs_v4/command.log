@@ -1,6 +1,0 @@
-Invoking command in '/home/om/dobot_ws/build/dobot_msgs_v4': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/om/dobot_ws/src/dobot_msgs_v4 -DCMAKE_INSTALL_PREFIX=/home/om/dobot_ws/install/dobot_msgs_v4
-Invoked command in '/home/om/dobot_ws/build/dobot_msgs_v4' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/om/dobot_ws/src/dobot_msgs_v4 -DCMAKE_INSTALL_PREFIX=/home/om/dobot_ws/install/dobot_msgs_v4
-Invoking command in '/home/om/dobot_ws/build/dobot_msgs_v4': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/om/dobot_ws/build/dobot_msgs_v4 -- -j8 -l8
-Invoked command in '/home/om/dobot_ws/build/dobot_msgs_v4' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/om/dobot_ws/build/dobot_msgs_v4 -- -j8 -l8
-Invoking command in '/home/om/dobot_ws/build/dobot_msgs_v4': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/om/dobot_ws/build/dobot_msgs_v4
-Invoked command in '/home/om/dobot_ws/build/dobot_msgs_v4' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/om/dobot_ws/build/dobot_msgs_v4
